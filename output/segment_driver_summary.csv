@@ -1,0 +1,19 @@
+"happiness_group","driver","mean_value","median_value"
+"Bottom 25%","Freedom",0.3,0.32
+"Bottom 25%","GDP",0.54,0.48
+"Bottom 25%","Generosity",0.24,0.23
+"Bottom 25%","Health",0.29,0.29
+"Bottom 25%","Social Support",0.9,0.95
+"Bottom 25%","Trust",0.1,0.08
+"Middle 50%","Freedom",0.4,0.43
+"Middle 50%","GDP",0.99,1.04
+"Middle 50%","Generosity",0.22,0.21
+"Middle 50%","Health",0.58,0.61
+"Middle 50%","Social Support",1.22,1.24
+"Middle 50%","Trust",0.09,0.07
+"Top 25%","Freedom",0.54,0.56
+"Top 25%","GDP",1.41,1.44
+"Top 25%","Generosity",0.31,0.33
+"Top 25%","Health",0.76,0.8
+"Top 25%","Social Support",1.43,1.43
+"Top 25%","Trust",0.21,0.22
